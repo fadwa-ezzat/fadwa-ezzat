@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fadwa-ezzat
-- I have Masters in Computer Science from 2018 and Bachelors in Computer Engineering but haven't worked as a developer ever.
+- I haven't worked as a developer ever but would love to.
 - 🌱 I’m currently refreshing my computer knowledge to be able to apply for a job.
 
 <!---
